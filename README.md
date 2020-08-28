@@ -1,5 +1,7 @@
 Comparing the Effectiveness of Capture and Replay against Automatic Input Generation for Android GUI Testing
 
+
+
 A study has been carried out to evaluate and compare the effectiveness of different GUI testing approaches in the context of Android apps, in order to better understand the effectiveness of Capture and Replay (C\&R) test-generation techniques in comparison with Automated Input Generation (AIG) techniques.
 
 To this aim, 20 Computer Engineering students from the University of Naples “Federico II”.were enrolled in the Advanced Software Engineering course, held by one of the authors, for the Master degree in Computer Engineering.
