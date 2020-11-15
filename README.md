@@ -1,6 +1,8 @@
 Comparing the Effectiveness of Capture and Replay against Automatic Input Generation for Android GUI Testing
 
-Accepted by Software Testing Verication and Reliability (STVR)
+Published by Software Testing Verication and Reliability (STVR):
+https://onlinelibrary.wiley.com/doi/full/10.1002/stvr.1754
+
 
 
 A study has been carried out to evaluate and compare the effectiveness of different GUI testing approaches in the context of Android apps, in order to better understand the effectiveness of Capture and Replay (C\&R) test-generation techniques in comparison with Automated Input Generation (AIG) techniques.
@@ -19,4 +21,4 @@ The test cases produced by the 20 students are in the folder called Students.
 
 The open source apps included in the experiment presented in the paper have been manually instrumented in order to allow the automatic measure of the source code branch coverage.
 
-The source code of the instrumented source code cis in the folder called SourceCode
+The source code of the instrumented source code cis in the folder called InstrumentedSourceCode
